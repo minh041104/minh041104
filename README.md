@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @minh041104
-- 👀 I’m interested in meow
-- 🌱 I’m currently learning Ả rập
-- 💞️ I’m looking to collaborate on meow
-- 📫 How to reach me 113
 
-<!---
-minh041104/minh041104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Dít mi
+
+
+
+
+# Minh! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Python, C++, SQL, Spark, Hadoop, ...
+
+![Logo](https://th.bing.com/th/id/R.0fdf0df6ce72bc45b37dbd307c14caca?rik=XpThL5HLf2v0jQ&pid=ImgRaw&r=0)
+
+
+## Tech Stack
+
+**Client:** React
+
+
+
+
+## 🚀 About Me
+I'm a AI engineer.
